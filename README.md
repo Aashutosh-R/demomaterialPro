@@ -152,66 +152,78 @@ The **Free Version** of the **MaterialPro NextJs Admin Dashboard** provides a so
 ## 🗂️ Other versions
 
 <table>
-<thead>
-<tr>
-<th> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
-  <span style="font-size: 16px;">Bootstrap</span>
-</th>
-<th> 
-  <img src="https://skillicons.dev/icons?i=react" height="20" alt="React templates" style="margin-right: 8px;">
-  <span style="font-size: 16px;">React</span>
-</th>   
-<th>
-<img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Nuxt templates" style="margin-right: 8px;">
-<span>Nuxt</span>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-  <a href="https://www.wrappixel.com/templates/materialpro/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-bootstrap-admin-wpn.jpg" alt="materialpro-bootstrap-admin-template" style="max-width:140px;">
-  </a>
-</td>
- <td>
-  <a href="https://www.wrappixel.com/templates/materialpro-react-admin/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/01/MaterialPro-React.js.jpg" alt="materialpro-react-admin-template" style="max-width:140px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/materialpro-nuxtjs/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-nuxtjs-admin-wpn.jpg" alt="materialpro-nuxt-admin-template" style="max-width:150px;">
-  </a>
-</td>
-</td>  
-</tr>
-<tr>
-<th>
-<img src="https://skillicons.dev/icons?i=angular" height="20" alt="Angular templates" style="margin-right: 8px;">
-<span>Angular</span>
-</th>
-<th>
-<img src="https://skillicons.dev/icons?i=vue" height="20" alt="Vue templates" style="margin-right: 8px;">
-<span>Vue</span>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-  <a href="https://www.wrappixel.com/templates/materialpro-angular-dashboard/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg" style="max-width:140px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-vuetify-admin-wpn.jpg" alt="materialpro-vue-admin-template" style="max-width:150px;">
-  </a>
-</td>  
-</tr>
-</tbody>
+   <thead>
+      <tr>
+         <th> 
+            <span style="font-size: 16px;">All Access Pass</span>
+         </th>
+         <th> 
+            <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
+            <span style="font-size: 16px;">Bootstrap</span>
+         </th>
+         <th> 
+            <img src="https://skillicons.dev/icons?i=react" height="20" alt="React templates" style="margin-right: 8px;">
+            <span style="font-size: 16px;">React</span>
+         </th>
+      </tr>
+   </thead>
+      
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.wrappixel.com/all-access-pass/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/2025/04/all-access-pass-category-banner-1.png" alt="materialM-bootstrap-admin-template" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-bootstrap-admin-wpn.jpg" alt="materialpro-bootstrap-admin-template" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-react-admin/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/01/MaterialPro-React.js.jpg" alt="materialpro-react-admin-template" style="max-width:140px;">
+            </a>
+         </td> 
+      </tr>
+   </tbody>
+      
+   <thead>
+      <tr>
+         <th>
+            <img src="https://skillicons.dev/icons?i=angular" height="20" alt="Angular templates" style="margin-right: 8px;">
+            <span>Angular</span>
+         </th>
+         <th>
+            <img src="https://skillicons.dev/icons?i=vue" height="20" alt="Vue templates" style="margin-right: 8px;">
+            <span>Vue</span>
+         </th>
+         <th>
+            <img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Nuxt templates" style="margin-right: 8px;">
+            <span>Nuxt</span>
+         </th>
+      </tr>
+   </thead>
+   
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-angular-dashboard/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-vuetify-admin-wpn.jpg" alt="materialpro-vue-admin-template" style="max-width:150px;">
+            </a>
+         </td>  
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-nuxtjs/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-nuxtjs-admin-wpn.jpg" alt="materialpro-nuxt-admin-template" style="max-width:150px;">
+            </a>
+         </td>
+      </tr>
+   </tbody>
 </table>
 
 ---
